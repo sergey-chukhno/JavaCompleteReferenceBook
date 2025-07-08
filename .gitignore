@@ -1,0 +1,11 @@
+# Ignore all .class files
+*.class
+
+# Ignore all output directories
+bin/
+out/
+target/
+
+# Ignore other common build output directories
+build/
+dist/
